@@ -1,4 +1,3 @@
-# Creating a README file for the KenSho project based on the provided content.
 # KenSho
 
 *LLM-based Dream Interpretation for Better Diagnosis of Patients with Psychological Disorders and Trauma*
